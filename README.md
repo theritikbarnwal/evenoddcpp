@@ -12,23 +12,23 @@ Features
 
 Example
 
--Enter the starting number: 48
--Enter the end number: 137
--Enter the intervals: 7
--48 is even
--55 is odd
--62 is even
--69 is odd
--76 is even
--83 is odd
--90 is even
--97 is odd
--104 is even
--111 is odd
--118 is even
--125 is odd
--132 is even
--Even numbers: 48. 62. 76. 90. 104. 118. 132.
--Total even numbers: 7
--Odd numbers: 55. 69. 83. 97. 111. 125.
--Total odd numbers: 6
+- Enter the starting number: 48
+- Enter the end number: 137
+- Enter the intervals: 7
+- 48 is even
+- 55 is odd
+- 62 is even
+- 69 is odd
+- 76 is even
+- 83 is odd
+- 90 is even
+- 97 is odd
+- 104 is even
+- 111 is odd
+- 118 is even
+- 125 is odd
+- 132 is even
+- Even numbers: 48. 62. 76. 90. 104. 118. 132.
+- Total even numbers: 7
+- Odd numbers: 55. 69. 83. 97. 111. 125.
+- Total odd numbers: 6 
